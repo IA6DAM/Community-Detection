@@ -35,12 +35,9 @@ This study explores community detection in academic citation networks, emphasizi
 3. **Dataset Access**:
    - The DBLP dataset exist in the file  `datasetlink.txt`.
 
-Author
-[Fatima Noutfi]
+
 
 ## Author
-- [Your Name]
+- [Fatima Noutfi]
 
----
 
-Let me know if you’d like any additional details or modifications!
